@@ -64,4 +64,3 @@ This section covers 'Introduction' within Graph Neural Networks. For industry re
 ## Tests
 ```bash
 pytest
-```
