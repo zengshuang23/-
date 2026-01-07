@@ -61,6 +61,15 @@ This section covers 'Introduction' within Graph Neural Networks. For industry re
 ...
 ```
 
+（中文示例输出说明：
+这是一个生成综述文档的示例片段，标题为“Graph Neural Networks — Review”，针对行业受众，目标长度 1500 字，模式为应用，语言为英文。
+简介部分聚焦于图神经网络的核心概念、关键词如 GNN 和链接预测，以及方法、数据和应用的趋势。
+该部分总结了 GNN 的演变、代表性工作和实际应用案例，以及方法和数据的进展和开放问题。）
+
 ## Tests
 ```bash
 pytest
+```
+
+（中文测试说明：
+- 使用 `pytest` 运行测试套件以验证代码功能。）
